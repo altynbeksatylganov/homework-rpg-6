@@ -5,7 +5,7 @@ import com.narxoz.rpg.arena.ArenaOpponent;
 import com.narxoz.rpg.arena.TournamentResult;
 import com.narxoz.rpg.chain.ArmorHandler;
 import com.narxoz.rpg.chain.BlockHandler;
-import cgom.narxoz.rpg.chain.DefenseHandler;
+import com.narxoz.rpg.chain.DefenseHandler;
 import com.narxoz.rpg.chain.DodgeHandler;
 import com.narxoz.rpg.chain.HpHandler;
 import com.narxoz.rpg.command.ActionQueue;
